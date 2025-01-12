@@ -1,6 +1,6 @@
 # Smart Dustbin
 
-This a commercial school project. This repository is for further code support.
+This is a commercial school project. This repository is for further code support.
 
 ## Components
 - Arduino Nano
